@@ -1,9 +1,9 @@
 import React from 'react';
 import carbonFootprint from '../../assets/project-images/carbonFootprint.png';
 import fitnessTracker from '../../assets/project-images/fitnessTracker.png';
-import weatherDashboard from '../../assets/project-images/weather-dashboard.png';
+import weatherDashboard from '../../assets/project-images/weatherDashboard.png';
 import passwordGenerator from '../../assets/project-images/passwordGenerator.png';
-import underTheBohdeTree from '../../assets/project-images/underTheBohdeTree';
+import underTheBohdeTree from '../../assets/project-images/underTheBohdeTree.png';
 
 function Portfolio() {
   return (
@@ -27,7 +27,7 @@ function Portfolio() {
               </a>
             </div>
             <div className='job-text'>
-              <h4>underTheBohde</h4>
+              <h4>Under The Bohde</h4>
             <p>
             Everyone knows that meeting others with similar interest bookworms fosters creativity and can provide inspiration for future ideas or books.. Under The Bohde Tree is a place where you can find other bookworms who want to share their knowledge.Under the Bohde Tree is a platform where you are able to look up books and add them to your "bookshelves". When you go into the application it will ask you to Log In or Sing Up. From there you will be taken to a search bar where you can start looking up book you want. While looking for a book you can add it to your current library to have a digital way to keep track of your books or add it to your wishlist! Once you add a few books to your profile page you will then be able to Trade with other users on the platform and contact them if they have a book on your Wishlist! Happy Reading!
 
@@ -51,7 +51,7 @@ function Portfolio() {
               </a>
             </div>
             <div className='job-text'>
-              <h4>carbonFootprint</h4>
+              <h4>Carbon Footprint</h4>
               <p>
              This application was a group project that lets users calculate your possible yearly carbon footprint; based on their type of car and miles driven, and compares it to the United States average. The app stores data to calculate the average carbon footprint for multiple days.
               </p>
