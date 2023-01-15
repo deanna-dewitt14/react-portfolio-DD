@@ -21,7 +21,7 @@ function Header(props) {
 	  
       <section class='hero'>
         <div class='hero-cta'>
-          <h3>Welcome to my portfolio page built with React!</h3>
+          <h3>Welcome to my React Portfolio!</h3>
         </div>
       </section>
     </div>

@@ -8,7 +8,7 @@ function Navigation(props) {
     }, [currentTab]);
 
   return (
-    <navigation>
+    <nav>
     <ul className='nav nav-tabs'>
       <li className='nav-item'>
           <a
@@ -47,7 +47,7 @@ function Navigation(props) {
           </a>
         </li>
     </ul>
-    </navigation>
+    </nav>
   );
 };
 
