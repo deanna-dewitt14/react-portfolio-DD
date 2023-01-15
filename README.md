@@ -96,7 +96,10 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the functional, deployed application.
 
+https://deanna-dewitt14.github.io/react-portfolio-DD/
+
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
+https://github.com/deanna-dewitt14/react-portfolio-DD
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
