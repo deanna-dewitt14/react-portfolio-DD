@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-DD/static/css/main.bb33957c.css",
+    "main.js": "/react-portfolio-DD/static/js/main.e9b08870.js",
+    "static/js/787.0f51ddb6.chunk.js": "/react-portfolio-DD/static/js/787.0f51ddb6.chunk.js",
+    "static/media/fitnessTracker.png": "/react-portfolio-DD/static/media/fitnessTracker.3474808fb82c7a78d467.png",
+    "static/media/headshot.jpg": "/react-portfolio-DD/static/media/headshot.a61cf2647c20b82b94f4.jpg",
+    "static/media/weatherDashboard.png": "/react-portfolio-DD/static/media/weatherDashboard.68b210a06d6552b5efe9.png",
+    "static/media/carbonFootprint.png": "/react-portfolio-DD/static/media/carbonFootprint.b756be06d74725429882.png",
+    "static/media/DeannaDeWitt2023-Resume.pdf": "/react-portfolio-DD/static/media/DeannaDeWitt2023-Resume.be456e90c3c1f8b99c66.pdf",
+    "static/media/passwordGenerator.png": "/react-portfolio-DD/static/media/passwordGenerator.34dd0d42b4a7ef4b793c.png",
+    "static/media/underTheBohdeTree.png": "/react-portfolio-DD/static/media/underTheBohdeTree.e7319ad2f87959a335a8.png",
+    "index.html": "/react-portfolio-DD/index.html",
+    "main.bb33957c.css.map": "/react-portfolio-DD/static/css/main.bb33957c.css.map",
+    "main.e9b08870.js.map": "/react-portfolio-DD/static/js/main.e9b08870.js.map",
+    "787.0f51ddb6.chunk.js.map": "/react-portfolio-DD/static/js/787.0f51ddb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb33957c.css",
+    "static/js/main.e9b08870.js"
+  ]
+}
